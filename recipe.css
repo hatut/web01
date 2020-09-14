@@ -1,0 +1,44 @@
+p{
+	line-height: 10px;
+	color:#404040;
+	font-size: 11pt;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+span{
+	color:#404040;
+	font-size: 11pt;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.title{
+	color:#A4A400;
+	font-weight: normal;
+	font-size: 18pt;
+	background-color:#F0F0F0;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-decoration: underline;
+	text-align: left;
+	letter-spacing:0.2em;
+}
+.comments{
+	line-height: 20px;
+	margin-left: 50px;
+    margin-right: 50px;
+	background-color: rgb(255, 255, 200);
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	font-style: italic;
+}
+ul{	
+	line-height: 20px;
+	color:#404040;
+	font-size: 11pt;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	list-style-image: url(http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif);
+}
+a{
+	color:#A4A400;
+}
+body{
+	background-image: url(http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg);
+	background-attachment: fixed;
+}
+a:hover {color: crimson;}   /* 鼠标指针移动到链接上 */
